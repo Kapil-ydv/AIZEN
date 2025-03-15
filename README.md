@@ -4,3 +4,4 @@ VITE_AWS_ACCESS_KEY_ID=your_access_key_id
 VITE_AWS_SECRET_ACCESS_KEY=your_secret_access_key
 VITE_AWS_REGION=your_aws_region
 VITE_S3_BUCKET=your_bucket_name
+https://incomparable-speculoos-66f2b9.netlify.app
